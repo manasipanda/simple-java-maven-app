@@ -7,8 +7,8 @@ public class App
 {
 
     private final String message = "Hello World!";
-	private a = "TEST STRING";
-	private b = "TEST STRING";
+	private String a = "TEST STRING";
+	private String b = "TEST STRING";
 
     public App() {}
 
