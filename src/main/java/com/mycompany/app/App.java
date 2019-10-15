@@ -17,5 +17,11 @@ public class App
     private final String getMessage() {
         return message;
     }
+	private int add(int a, int b) {
+	    return a+b;
+	}
+	public int subs(int a, int b) {
+	    return a-b;
+	}
 
 }
