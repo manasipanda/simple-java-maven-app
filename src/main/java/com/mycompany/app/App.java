@@ -7,6 +7,8 @@ public class App
 {
 
     private final String message = "Hello World!";
+	private a = "TEST STRING"
+	private b = "TEST STRING"
 
     public App() {}
 
@@ -22,6 +24,12 @@ public class App
 	}
 	public int subs(int a, int b) {
 	    return a-b;
+	}
+	private int add2(int a, int b) {
+	    return a+b;
+	}
+	private int add3(int a, int b) {
+	    return a+b;
 	}
 
 }
